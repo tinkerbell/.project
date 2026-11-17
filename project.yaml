@@ -26,7 +26,7 @@ repositories:
 
 website: "https://tinkerbell.org/"
 
-artwork: "https://landscape.cncf.io/logos/tinkerbell.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/tinkerbell"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
